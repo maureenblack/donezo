@@ -1,0 +1,31 @@
+{
+  "name": "donezo",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@next/swc-win32-x64-msvc": "^15.1.7",
+    "autoprefixer": "10.4.16",
+    "next": "13.5.6",
+    "postcss": "8.4.31",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "20.8.7",
+    "@types/react": "18.2.31",
+    "@types/react-dom": "18.2.14",
+    "typescript": "5.2.2"
+  }
+}
