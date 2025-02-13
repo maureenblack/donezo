@@ -2,7 +2,7 @@
 
 A sleek and intuitive task management application built with React and styled with Tailwind CSS. Donezo helps you stay organized with a clean, modern interface and smooth user experience.
 
-![Donezo App Screenshot](./screenshot.png)
+![Screenshot 2025-02-13 at 00-12-54 ](https://github.com/user-attachments/assets/f054b38c-fef6-4b03-b16e-fc3c5e61d7b0)
 
 ## Features
 
@@ -86,4 +86,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Design inspiration from modern web applications
 - Icons provided by Heroicons
-- Built with Create React App
